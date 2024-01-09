@@ -1,0 +1,13 @@
+asttokens==2.4.1
+executing==2.0.1
+friendly==0.7.21
+friendly-styles==0.2
+friendly-traceback==0.7.61
+markdown-it-py==3.0.0
+mdurl==0.1.2
+platformdirs==4.1.0
+pure-eval==0.2.2
+Pygments==2.17.2
+rich==13.7.0
+six==1.16.0
+stack-data==0.6.3
